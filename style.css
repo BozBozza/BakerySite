@@ -228,6 +228,12 @@ body {
     resize: vertical;
 }
 
+.contact-image {
+    width: 4rem;
+    height: 4rem;
+    display: block;
+}
+
 /* --- Review --- */
 .review-grid {
     display: grid;
